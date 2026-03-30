@@ -4,4 +4,4 @@ out
 ok
 then
 ok
-good
+god
